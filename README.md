@@ -30,7 +30,7 @@
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-<b>[LinkedIn]([linkedin])</b>
+<b>[LinkedIn](https://www.linkedin.com/in/david-mien/)</b>
 
 [linkedin]: https://www.linkedin.com/in/david-mien/
 
